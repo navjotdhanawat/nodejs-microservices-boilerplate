@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Navjot Dhanawat<navjotdhanawat@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
