@@ -1,0 +1,16 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "type": "object",
+    "properties": {
+        "username": {
+            "type": "string"
+        },
+        "token": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "username",
+        "token"
+    ]
+}
