@@ -27,3 +27,4 @@ API Gateway folder structure:
 6. Unit Test and Integration Test.
 7. Secured using JWT Token base authentication.
 8. Nodejs commandline app to create new service skeleton.
+9. ESLint
